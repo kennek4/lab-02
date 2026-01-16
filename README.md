@@ -7,7 +7,9 @@
 
 ## References and Resources
 
-N/A
+https://developer.android.com/reference
+https://codingtechroom.com/question/-retrieve-selected-item-listview-android
+https://www.linkedin.com/pulse/why-how-use-onclicklistener-java-android-development-mirza-salman-beg-hgwjc
 
 ## Verbal Collaboration
 
