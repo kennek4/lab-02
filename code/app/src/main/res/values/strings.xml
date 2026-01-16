@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListCity</string>
+    <string name="delete">DELETE</string>
+    <string name="create">CREATE</string>
+    <string name="submit">SUBMIT</string>
+    <string name="cancel">CANCEL</string>
+</resources>
